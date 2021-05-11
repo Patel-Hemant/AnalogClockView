@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogClockView">
+        <attr name="pointsColor" format="color" />
+        <attr name="dialColor" format="color" />
+        <attr name="hourHandColor" format="color" />
+        <attr name="minuteHandColor" format="color" />
+        <attr name="secondHandColor" format="color" />
+        <attr name="hourHandWidth" format="float" />
+        <attr name="minuteHandWidth" format="float" />
+        <attr name="secondHandWidth" format="float" />
+    </declare-styleable>
+</resources>
