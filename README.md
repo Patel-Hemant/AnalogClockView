@@ -1,4 +1,4 @@
-# AnalogClockView
+# AnalogClockView [![](https://jitpack.io/v/Hemu43362/AnalogClockView.svg)](https://jitpack.io/#Hemu43362/AnalogClockView)
 
 ### Usage:
 
