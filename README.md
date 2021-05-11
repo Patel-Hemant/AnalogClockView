@@ -42,8 +42,7 @@
         app:minuteHandWidth="10"
         app:hourHandWidth="15"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"![output02](https://user-images.githubusercontent.com/59821647/117830792-997c6300-b291-11eb-81ce-2ff333bc2628.jpg)
-
+        app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 ```
