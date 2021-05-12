@@ -68,3 +68,19 @@
         mClockView.stopClock()
     }
 ```
+
+### Attribute details:
+
+| Atrribute | Properties | Type | Default Value̥|
+| --------- | ---------- | ---- | -------------|
+| pointsColor | color of points which indicates the numbers | Color | Color.WHITE |
+| dialColor | color of dial of watch | Color | Color.GRAY |
+| secondHandColor | color of second hand | Color | Color.RED |
+| minuteHandColor | color of minute hand | Color | Color.YELLOW |
+| hourHandColor | color of hour hand | Color | Color.GREEN |
+| secondHandWidth | width of second hand | Float | 8f |
+| minuteHandWidth | width of minute hand | Float | 12f |
+| hourHandWidth | width of hour hand | Float | 15f |
+
+### Change log:
+
