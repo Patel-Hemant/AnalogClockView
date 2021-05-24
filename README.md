@@ -1,4 +1,4 @@
-# AnalogClockView [![](https://jitpack.io/v/Hemu43362/AnalogClockView.svg)](https://jitpack.io/#Hemu43362/AnalogClockView)
+# AnalogClockView [![](https://jitpack.io/v/Hemu43362/AnalogClockView.svg)](https://jitpack.io/#Hemu43362/AnalogClockView) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ### Output:
 <image src="https://user-images.githubusercontent.com/59821647/117830707-836ea280-b291-11eb-8119-5e9bda184342.jpg" width="30%" height="auto" align="left"/>
